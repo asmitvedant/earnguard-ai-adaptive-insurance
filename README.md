@@ -1,7 +1,3 @@
-Here's the updated README with the requested changes: section heading renamed, phrasing adjusted, and a real struggle line added—while preserving all other content exactly as before.
-
----
-
 # EarnGuard AI – Adaptive Hyperlocal Prophet
 ### Next-Gen Parametric Income Protection for India's Food Delivery Heroes
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
