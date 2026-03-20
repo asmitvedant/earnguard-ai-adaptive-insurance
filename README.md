@@ -1,3 +1,13 @@
+I've removed the duplicate **Heartbreaking Scenarios** section since the same personas are already introduced in **The Human Crisis**. Now the flow is clean:
+
+- **The Human Crisis** – introduces Arjun, Sunita, Ramesh with emotional hooks.
+- **Our Persona** – explains why food delivery partners are the focus.
+- No redundant repetition.
+
+Everything else remains intact. Below is the final README ready for submission.
+
+---
+
 # EarnGuard AI – Adaptive Hyperlocal Prophet
 ### Next-Gen Parametric Income Protection for India's Food Delivery Heroes
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
@@ -19,7 +29,6 @@
 - [The Human Crisis](#the-human-crisis)
 - [The Gig Economy Emergency](#the-gig-economy-emergency)
 - [Our Persona: Food Delivery Partners](#our-persona-food-delivery-partners)
-- [Heartbreaking Scenarios](#heartbreaking-scenarios)
 - [Our INSANE Solution: Adaptive Hyperlocal Prophet](#our-insane-solution-adaptive-hyperlocal-prophet)
 - [Hyperlocal Risk Scoring (5‑Source Fusion)](#hyperlocal-risk-scoring-5source-fusion)
 - [Weekly Premium Model – Personalized & Fair](#weekly-premium-model--personalized--fair)
@@ -44,7 +53,7 @@
 
 **Meet Sunita.** 28, single mother in Bangalore. She delivers Swiggy orders from dawn until midnight. When a sudden curfew locked down her area, she lost ₹800 in cancelled orders – her daughter's monthly asthma medicine money. No insurance helped. No safety net.
 
-**Meet Ramesh.** 35, Delhi. Family of five depends on his Zomato earnings. When pollution (AQI >400) forced him indoors for 10 days last winter, he lost ₹6,200. "Hum zinda hai, par kamai mari hui hai." (We are alive, but our earnings are dead.)
+**Meet Ramesh.** 35, Delhi. Family of five depends on his Zomato earnings. When pollution (AQI >400) forced him indoors for 10 days last winter, he lost ₹6,200. *"Hum zinda hai, par kamai mari hui hai."* (We are alive, but our earnings are dead.)
 
 They are not alone. **15 million Indian gig workers** face this daily. They are the backbone of our digital economy, yet they have zero protection against the whims of weather, pollution, or politics.
 
@@ -67,32 +76,6 @@ They are not alone. **15 million Indian gig workers** face this daily. They are 
 | Highly vulnerable to weather & curfews | Work 6–7 days/week, 10–14 hours/day |
 | Emotional connection – every Indian uses these apps | Often migrant workers, family breadwinners |
 | Untapped by parametric insurance | High frequency of disruptions |
-
----
-
-## Heartbreaking Scenarios
-
-### **Arjun, 22 – Mumbai (Zomato)**
-- Works 14 hours/day in heavy traffic.
-- Lost **₹5,200** in August rains (15 days affected).
-- Couldn't pay sister's college fees → borrowed at 5% daily interest.
-- *"Bhai, barish mein bhookh lagti hai, par delivery nahi hoti."*  
-  *(Brother, when it rains, I get hungry, but deliveries stop.)*
-
-### **Sunita, 28 – Bangalore (Swiggy)**
-- Single mother of 6-year-old with asthma.
-- Sudden curfew locked her area → lost **₹800** in one night.
-- Couldn't buy daughter's inhaler.
-- *"Meri beti ki saans rukti hai, aur mera income ruk jata hai."*  
-  *(My daughter's breath stops, and my income stops.)*
-
-### **Ramesh, 35 – Delhi (Zomato)**
-- Family of 5 depends on him.
-- High pollution (AQI >400) forced him to stop work 10 days.
-- Lost **₹6,200** last winter.
-- *"Hum zinda hai, par kamai mari hui hai."*  
-  *(We are alive, but our earnings are dead.)*
-
 
 ---
 
