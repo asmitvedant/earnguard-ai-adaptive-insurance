@@ -24,6 +24,7 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [The Gig Economy Emergency](#the-gig-economy-emergency)
 - [Our Persona: Food Delivery Partners](#our-persona-food-delivery-partners)
 - [Our INSANE Solution: Adaptive Hyperlocal Prophet](#our-insane-solution-adaptive-hyperlocal-prophet)
+ - [System Architecture – EarnGuard AI](#system-architecture--earnguard-ai)
 - [Hyperlocal Risk Scoring (5‑Source Fusion)](#hyperlocal-risk-scoring-5source-fusion)
 - [Weekly Premium Model – Personalized & Fair](#weekly-premium-model--personalized--fair)
 - [Parametric Triggers – 5+ Automated Events](#parametric-triggers--5-automated-events)
@@ -36,7 +37,7 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [Team](#team)
 - [Links & Resources](#links--resources)
 - [Compliance Matrix](#compliance-matrix)
-- [System Architecture – EarnGuard AI](#system-architecture--earnguard-ai)
+
 
 ---
 
@@ -87,6 +88,18 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
 - **Pinpoint accuracy** – can detect flooding on a specific street corner.
 - **Scalable** – covers entire cities without explosion of cells.
 - **No other team will think of this** – guaranteed differentiation.
+
+
+---
+## System Architecture – EarnGuard AI
+
+<p align="center">
+  <img src="./System Architecture.png" alt="EarnGuard AI Architecture Diagram" width="1000"/>
+</p>
+
+<p align="center">
+  ⚡ Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
+</p>
 
 ---
 
@@ -349,17 +362,7 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 | Parametric Automation | Real-time triggers + instant payouts |
 | API Integration | Weather, AQI, Maps, Payments |
 
----
 
-## System Architecture – EarnGuard AI
-
-<p align="center">
-  <img src="./System Architecture.png" alt="EarnGuard AI Architecture Diagram" width="1000"/>
-</p>
-
-<p align="center">
-  ⚡ Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
-</p>
 
 ---
 
