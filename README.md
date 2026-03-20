@@ -84,7 +84,7 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
   
 ![Adaptive Grid](adaptive%20grid.png)
 
-**Why this is INSANE:**
+**Why this is DIFFERENT:**
 - **Computationally efficient** – focuses power where risk is real.
 - **Pinpoint accuracy** – can detect flooding on a specific street corner.
 - **Scalable** – covers entire cities without explosion of cells.
