@@ -395,36 +395,7 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 
 ## 📐 **Architecture Diagram Guide**
 
-Create a **high‑level system architecture diagram** with these components. Use a tool like draw.io, Lucidchart, or Canva. Include:
 
-### **1. Worker Mobile App (React Native)**
-- UI with Mapbox grid overlay
-- Sensor data collector (GPS, accelerometer, Wi‑Fi, etc.)
-- Offline cache for claims
-
-### **2. Backend Services (Node.js)**
-- API Gateway
-- User & Policy Management
-- Grid Risk Engine (quadtree updater)
-- Claims Processor
-- Fraud Detection Orchestrator
-
-### **3. AI Microservices (Python Flask)**
-- Grid Risk Predictor (XGBoost)
-- Income Predictor (Gradient Boosting)
-- Trust Score Calculator (ensemble)
-- Fraud Ring Detector (GNN)
-
-### **4. Databases (MongoDB)**
-- Users, Grids, Policies, Claims, Fraud Alerts, Crowdsourced Reports
-
-### **5. External APIs**
-- OpenWeatherMap, WAQI, NewsAPI, Google Maps (mock), Razorpay (mock)
-
-### **6. Anti‑Spoofing Data Flow**
-- Sensor data → Feature Fusion → Trust Score → Decision Engine
-
-**Visual Style:** Use color‑coding for each layer (frontend blue, backend green, AI purple, DB orange). Arrows show data flow. Add a callout for the **Trust Score** and **Step‑Up Verification** loop.
 
 ---
 
