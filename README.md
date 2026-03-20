@@ -103,8 +103,9 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
 - **Low‑risk areas** (e.g., T Nagarin chennai) → **1km × 1km grids** – efficient, no wasted compute.
 - **High‑risk areas** (e.g., Velachery flood zone in chennai, Andheri traffic hotspots) → **100m × 100m micro‑grids** – 25× more precision where it matters.
 
-```
 ![Adaptive Grid](adaptive-grid.png)
+```
+
 **Why this is INSANE:**
 - 🧠 **Computationally efficient** – focuses power where risk is real.
 - 🎯 **Pinpoint accuracy** – can detect flooding on a specific street corner.
