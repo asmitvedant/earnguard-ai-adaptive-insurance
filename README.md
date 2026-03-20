@@ -35,7 +35,6 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [Tech Stack & Architecture](#tech-stack--architecture)
 - [6‑Week Development Roadmap](#6week-development-roadmap)
 - [Team](#team)
-- [Links & Resources](#links--resources)
 - [Compliance Matrix](#compliance-matrix)
 
 
@@ -340,14 +339,6 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 | G Varshaa | AI/ML | Isolation Forest, Graph Neural Networks, fraud detection |
 | Thota Jahanvi | Frontend | React Native, admin dashboard, video production |
 
----
-
-## Links & Resources
-
-- **GitHub Repository:** [https://github.com/your-team/earnguard-ai](https://github.com/your-team/earnguard-ai)
-- **Phase 1 Demo Video:** [YouTube/Google Drive Link]
-- **Figma Designs:** [Figma Link]
-- **Team Contact:** [Discord/WhatsApp group link]
 
 ---
 
