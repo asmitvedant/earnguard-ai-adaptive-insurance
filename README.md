@@ -98,7 +98,7 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
 </p>
 
 <p align="center">
-  ⚡ Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
+  Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
 </p>
 
 ---
@@ -372,5 +372,3 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
   <img src="https://img.shields.io/badge/Guidewire-DEVTrails%202026-ff69b4" />
 </p>
 
-**© 2026 Team EarnGuard**  
-*Made with ❤️ for India's gig workers – because they deserve more than just sympathy.*
