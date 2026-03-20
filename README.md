@@ -110,7 +110,7 @@ Cell Risk = (Base × 0.3) + (Weather × 0.3) + (Pollution × 0.2) + (Traffic × 
 ```
 All values normalized to 0–1.
 
-**Example – Andheri Grid at 3pm:**
+**Example – Velachery Grid at 3pm:**
 - Base: 0.6 (flood‑prone) ×0.3 = 0.18
 - Weather: Heavy rain (0.9) ×0.3 = 0.27
 - AQI: 150 → 0.3 ×0.2 = 0.06
