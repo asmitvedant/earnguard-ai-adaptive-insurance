@@ -393,7 +393,20 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 
 ---
 
-## 📐 **Architecture Diagram Guide**
+
+
+## 📐 **System Architecture – EarnGuard AI**
+
+<p align="center">
+  <img src="./System Architecture.png" alt="EarnGuard AI Architecture Diagram" width="1000"/>
+</p>
+
+<p align="center">
+  ⚡ Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
+</p>
+
+
+
 
 
 
