@@ -338,17 +338,16 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 
 ---
 
-## Compliance Matrix
+##  Compliance Matrix
 
-| Requirement | Our Solution | Keywords |
-|-------------|--------------|----------|
-| **Weekly Pricing** | Premium calculated every Monday, personalized based on grid history | dynamic premium, weekly, personalized |
-| **Income Loss Only** | Payouts based on expected earnings × disruption severity | loss of income, parametric, zero health/accident |
-| **AI Risk Assessment** | XGBoost grid predictor, gradient boosting income predictor | predictive modeling, machine learning, risk scoring |
-| **Fraud Detection** | 5-layer AI + anti-spoofing with 14+ signals | anomaly detection, location validation, duplicate prevention |
-| **Parametric Automation** | Real-time API monitoring, auto-triggers for 6 events | real-time triggers, automatic claim initiation, instant payout |
-| **Integration Capabilities** | Weather, pollution, news, mock traffic/payment APIs | API integration, weather API, payment gateway |
-| **Persona Focus** | Food delivery partners (Zomato/Swiggy) with emotional stories | persona-based, gig worker, delivery partner |
+| Requirement | Our Approach |
+|------------|-------------|
+| Weekly Pricing | Personalized weekly premium based on risk |
+| Income Loss Only | Payouts tied to disruption-based income loss |
+| AI Risk Assessment | XGBoost + ML-based grid prediction |
+| Fraud Detection | 5-layer AI + anti-spoofing |
+| Parametric Automation | Real-time triggers + instant payouts |
+| API Integration | Weather, AQI, Maps, Payments |
 
 ---
 
