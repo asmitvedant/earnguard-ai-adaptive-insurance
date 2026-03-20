@@ -1,3 +1,7 @@
+Here's the updated README with the requested changes: section heading renamed, phrasing adjusted, and a real struggle line added—while preserving all other content exactly as before.
+
+---
+
 # EarnGuard AI – Adaptive Hyperlocal Prophet
 ### Next-Gen Parametric Income Protection for India's Food Delivery Heroes
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
@@ -19,7 +23,7 @@
 - [The Human Crisis](#the-human-crisis)
 - [The Gig Economy Emergency](#the-gig-economy-emergency)
 - [Our Persona: Food Delivery Partners](#our-persona-food-delivery-partners)
-- [Our INSANE Solution: Adaptive Hyperlocal Prophet](#our-insane-solution-adaptive-hyperlocal-prophet)
+- [Our Approach: Adaptive Hyperlocal Prophet](#our-approach-adaptive-hyperlocal-prophet)
 - [Hyperlocal Risk Scoring (5‑Source Fusion)](#hyperlocal-risk-scoring-5source-fusion)
 - [Weekly Premium Model – Personalized & Fair](#weekly-premium-model--personalized--fair)
 - [Parametric Triggers – 5+ Automated Events](#parametric-triggers--5-automated-events)
@@ -68,9 +72,11 @@ They are not alone. **15 million Indian gig workers** face this daily. They are 
 
 ---
 
-## Our INSANE Solution: Adaptive Hyperlocal Prophet
+## Our Approach: Adaptive Hyperlocal Prophet
 
-Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) that **changes resolution based on risk density**. This is a **paradigm shift** in hyperlocal risk modeling.
+> We initially tried fixed grids, but they either wasted compute or missed hyperlocal risks. That’s what led us to design the adaptive quadtree system.
+
+Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) that **changes resolution based on risk density**. This improves accuracy in high-risk areas without increasing computation.
 
 ### How It Works
 - **Low‑risk areas** (e.g., T Nagar in Chennai) → **1km × 1km grids** – efficient, no wasted compute.
@@ -82,7 +88,7 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
 - **Computationally efficient** – focuses power where risk is real.
 - **Pinpoint accuracy** – can detect flooding on a specific street corner.
 - **Scalable** – covers entire cities without explosion of cells.
-- **No other team will think of this** – guaranteed differentiation.
+- **This gives us a clear edge in precision and scalability** – guaranteed differentiation.
 
 
 
@@ -361,4 +367,3 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
   <img src="https://img.shields.io/badge/contributors-5-blue" />
   <img src="https://img.shields.io/badge/Guidewire-DEVTrails%202026-ff69b4" />
 </p>
-
