@@ -100,20 +100,11 @@ They are not alone. **15 million Indian gig workers** face this daily. They are 
 Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) that **changes resolution based on risk density**. This is a **paradigm shift** in hyperlocal risk modeling.
 
 ### **How It Works**
-- **Low‑risk areas** (e.g., South Delhi) → **1km × 1km grids** – efficient, no wasted compute.
-- **High‑risk areas** (e.g., Velachery flood zone, Andheri traffic hotspots) → **100m × 100m micro‑grids** – 25× more precision where it matters.
+- **Low‑risk areas** (e.g., T Nagarin chennai) → **1km × 1km grids** – efficient, no wasted compute.
+- **High‑risk areas** (e.g., Velachery flood zone in chennai, Andheri traffic hotspots) → **100m × 100m micro‑grids** – 25× more precision where it matters.
 
 ```
-Low-risk zone (South Delhi):          High-risk zone (Velachery):
-┌────────────────────┐            ┌────┬────┬────┬────┐
-│                    │            │100m│100m│100m│100m│
-│      1km × 1km     │     →      ├────┼────┼────┼────┤
-│                    │            │100m│100m│100m│100m│  (16 cells)
-└────────────────────┘            ├────┼────┼────┼────┤
-                                   │100m│100m│100m│100m│
-                                   └────┴────┴────┴────┘
-```
-
+![Adaptive Grid](adaptive-grid.png)
 **Why this is INSANE:**
 - 🧠 **Computationally efficient** – focuses power where risk is real.
 - 🎯 **Pinpoint accuracy** – can detect flooding on a specific street corner.
