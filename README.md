@@ -1,3 +1,7 @@
+Here's your final README with the "Judges' Takeaway" quote removed and no other extraneous content. It's ready for submission.
+
+---
+
 # EarnGuard AI – Adaptive Hyperlocal Prophet
 ### Next-Gen Parametric Income Protection for India's Food Delivery Heroes
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
@@ -360,9 +364,6 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 | **Data Sources** | 1‑2 APIs | **5+ sources** fused with ML + 14+ anti‑spoofing signals |
 | **Compliance** | May slip | **Strictly weekly, income loss only, no health/accident** – fully auditable |
 | **Innovation** | “We use ML” | **4 specialized models, adaptive grid, GNN fraud rings, edge intelligence** |
-
-**Judges' Takeaway:**  
-*“EarnGuard AI isn't just insurance – it's a guardian angel for India's gig workers. We protect income, one grid at a time, while outsmarting the smartest fraudsters.”*
 
 ---
 
