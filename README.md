@@ -7,14 +7,14 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-🚀%20INSANE-brightgreen" />
+  <img src="https://img.shields.io/badge/status-%20INSANE-brightgreen" />
   <img src="https://img.shields.io/badge/pricing-💰%20Weekly%20Compliant-blue" />
   <img src="https://img.shields.io/badge/fraud%20detection-🛡️%205--Layer%20AI%20Fortress-red" />
   <img src="https://img.shields.io/badge/grid-🗺️%20Adaptive%20(100m--1km)-orange" />
   <img src="https://img.shields.io/badge/anti--spoofing-🔒%20Multi--Modal%20Fusion-purple" />
   <img src="https://img.shields.io/badge/AI-4%20Models%20%7C%20XGBoost%20%7C%20GNN-blue" />
   <img src="https://img.shields.io/badge/license-MIT-yellow" />
-  <img src="https://img.shields.io/badge/ATS%20Ready-✅%20Optimized-brightgreen" />
+  <img src="https://img.shields.io/badge/ATS%20Ready-%20Optimized-brightgreen" />
 </p>
 
 ---
