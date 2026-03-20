@@ -89,16 +89,6 @@ Instead of boring fixed grids, we built an **adaptive grid system** (quadtree) t
 - **No other team will think of this** – guaranteed differentiation.
 
 
----
-## System Architecture – EarnGuard AI
-
-<p align="center">
-  <img src="./System Architecture.png" alt="EarnGuard AI Architecture Diagram" width="1000"/>
-</p>
-
-<p align="center">
-  Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
-</p>
 
 ---
 
