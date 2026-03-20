@@ -1,7 +1,3 @@
-Here's your final README with the "Judges' Takeaway" quote removed and no other extraneous content. It's ready for submission.
-
----
-
 # EarnGuard AI – Adaptive Hyperlocal Prophet
 ### Next-Gen Parametric Income Protection for India's Food Delivery Heroes
 #### Guidewire DEVTrails 2026 – Phase 1 Submission
