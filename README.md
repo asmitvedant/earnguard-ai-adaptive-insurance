@@ -72,7 +72,7 @@ They are not alone. **15 million Indian gig workers** face this daily. They are 
 
 ## Heartbreaking Scenarios
 
-![Personas](personas.png)
+![Persona's](persona's.png)
 
 ---
 
