@@ -24,7 +24,6 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [The Gig Economy Emergency](#the-gig-economy-emergency)
 - [Our Persona: Food Delivery Partners](#our-persona-food-delivery-partners)
 - [Our INSANE Solution: Adaptive Hyperlocal Prophet](#our-insane-solution-adaptive-hyperlocal-prophet)
- - [System Architecture – EarnGuard AI](#system-architecture--earnguard-ai)
 - [Hyperlocal Risk Scoring (5‑Source Fusion)](#hyperlocal-risk-scoring-5source-fusion)
 - [Weekly Premium Model – Personalized & Fair](#weekly-premium-model--personalized--fair)
 - [Parametric Triggers – 5+ Automated Events](#parametric-triggers--5-automated-events)
@@ -32,6 +31,7 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [AI/ML Integration – 4 Core Models](#aiml-integration--4-core-models)
 - [Fraud Detection – 5‑Layer AI Fortress](#fraud-detection--5layer-ai-fortress)
 - [Adversarial Defense & Anti-Spoofing Strategy](#adversarial-defense--anti-spoofing-strategy)
+- [System Architecture – EarnGuard AI](#system-architecture--earnguard-ai)
 - [Tech Stack & Architecture](#tech-stack--architecture)
 - [6‑Week Development Roadmap](#6week-development-roadmap)
 - [Team](#team)
@@ -281,6 +281,19 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 - Selfie with live timestamp: AI checks liveness and geotag (10 seconds).
 - OTP via SMS: Confirms active SIM in area (5 seconds).
 - Appeal mechanism: Flagged workers can upload evidence; if genuine, get retroactive payout + ₹50 apology bonus.
+
+---
+
+
+## System Architecture – EarnGuard AI
+
+<p align="center">
+  <img src="./System Architecture.png" alt="EarnGuard AI Architecture Diagram" width="1000"/>
+</p>
+
+<p align="center">
+  Real-time AI-powered risk prediction • Parametric automation • Fraud-proof trust engine
+</p>
 
 ---
 
