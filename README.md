@@ -72,26 +72,7 @@ They are not alone. **15 million Indian gig workers** face this daily. They are 
 
 ## Heartbreaking Scenarios
 
-### Arjun, 22 – Mumbai (Zomato)
-- Works 14 hours/day in heavy traffic.
-- Lost **₹5,200** in August rains (15 days affected).
-- Couldn't pay sister's college fees → borrowed at 5% daily interest.
-- "Bhai, barish mein bhookh lagti hai, par delivery nahi hoti."  
-  (Brother, when it rains, I get hungry, but deliveries stop.)
-
-### Sunita, 28 – Bangalore (Swiggy)
-- Single mother of 6-year-old with asthma.
-- Sudden curfew locked her area → lost **₹800** in one night.
-- Couldn't buy daughter's inhaler.
-- "Meri beti ki saans rukti hai, aur mera income ruk jata hai."  
-  (My daughter's breath stops, and my income stops.)
-
-### Ramesh, 35 – Delhi (Zomato)
-- Family of 5 depends on him.
-- High pollution (AQI >400) forced him to stop work 10 days.
-- Lost **₹6,200** last winter.
-- "Hum zinda hai, par kamai mari hui hai."  
-  (We are alive, but our earnings are dead.)
+![Personas](personas.png)
 
 ---
 
