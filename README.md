@@ -36,7 +36,6 @@ Here's your final README with the "Judges' Takeaway" quote removed and no other 
 - [Team](#team)
 - [Links & Resources](#links--resources)
 - [Compliance Matrix](#compliance-matrix)
-- [Why We Win](#why-we-win)
 - [System Architecture – EarnGuard AI](#system-architecture--earnguard-ai)
 
 ---
@@ -350,20 +349,6 @@ We fuse **14+ passive signals** into a **Trust Score** – distinguishing genuin
 | **Parametric Automation** | Real-time API monitoring, auto-triggers for 6 events | real-time triggers, automatic claim initiation, instant payout |
 | **Integration Capabilities** | Weather, pollution, news, mock traffic/payment APIs | API integration, weather API, payment gateway |
 | **Persona Focus** | Food delivery partners (Zomato/Swiggy) with emotional stories | persona-based, gig worker, delivery partner |
-
----
-
-## Why We Win
-
-| Aspect | Typical Teams | EarnGuard AI |
-|--------|---------------|--------------|
-| **Grid System** | Fixed 500m grids | **Adaptive** – 100m in high‑risk, 1km in safe zones |
-| **Persona** | Generic | **Food delivery** – emotional, relatable, massive impact |
-| **Pricing** | Flat weekly rate | **Hyper‑personalized** based on individual grid history + forecast |
-| **Fraud Detection** | Basic rule‑based | **5‑layer AI + multi‑modal anti‑spoofing** with sensor fusion |
-| **Data Sources** | 1‑2 APIs | **5+ sources** fused with ML + 14+ anti‑spoofing signals |
-| **Compliance** | May slip | **Strictly weekly, income loss only, no health/accident** – fully auditable |
-| **Innovation** | “We use ML” | **4 specialized models, adaptive grid, GNN fraud rings, edge intelligence** |
 
 ---
 
