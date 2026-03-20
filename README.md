@@ -187,7 +187,7 @@ Payout = min(Loss × Coverage %, Policy Cap)
 ### Worker App Features
 - **Adaptive Grid Map** – color‑coded risk overlay (red/orange/green).
 - **Weekly Premium Display** – personalized amount with breakdown.
-- **Real‑time Alerts** – “High risk in Andheri – coverage boosted.”
+- **Real‑time Alerts** – “High risk in Velachery– coverage boosted.”
 - **One‑Tap Reporting** – report floods/strikes instantly.
 - **Auto‑Claim Status** – see payouts in real time.
 
